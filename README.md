@@ -5,7 +5,7 @@ __Here are my first micro-projects on Bioinformatics.__
 
 __PURPOSE:__
 - I started this repository for readmes (of my work history) as I explore Bioinformatics tools like IGV, NCBI, and SAMtools.
-- In the readmes you will see how I am learning to use the aforemtnioned Bioinformatics tools to manipulate *.bed, *.sam, *.bam files and lots more.
+- In the readmes you will see how I am learning to use the aforemtnioned Bioinformatics tools to manipulate *.bed, *.fasta, *.sam, *.bam files and lots more.
 
 __BRIEF:__
 - I worked on these in fulfilment of a course during my Masters degree. I started with very minimal understanding, BUT as I practice, I'm connecting the dots, seeing patterns, building a foundation and getting excited about the power of Bioinformatics.

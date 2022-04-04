@@ -1,5 +1,5 @@
 #### __README : EDITED COMMAND HISTORY DURING MSBI32400_LAB6__
-#### __Date Run: Wed, 2/16/2022__
+#### __Date Run: Wed, 3/2/2022__
 #### __Topic: Making bams & calling variants__
 #### __Tools used: samtools , bwa, bcftools__
 

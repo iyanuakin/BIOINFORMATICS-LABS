@@ -1,5 +1,5 @@
 #### __README : EDITED COMMAND HISTORY DURING MSBI32400_LAB7__
-#### __Date Run: Wed, 2/23/2022__
+#### __Date Run: Wed, 3/9/2022__
 #### __Topic: Quality Control for GWAS__
 #### __Tools used: plink, R, Slurm, Shebang__
 
